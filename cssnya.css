@@ -1,0 +1,140 @@
+			body {
+
+				font-family:"Oswald";
+
+				font-size: 20px;
+
+				padding-top: 20px;
+
+				background-color: lightblue
+			}
+
+			.container {
+
+				width: 1000px;
+
+				margin: 0 auto;
+
+				
+
+			}
+
+			.header {
+
+				display: flex;
+
+				height: 150px;
+
+			}
+
+			.container-nama {
+
+				display: flex;
+
+				flex-direction: column;
+
+				justify-content: center;
+
+			}
+
+			.nama {
+
+				display: block;
+
+			}
+
+			.gambar {
+
+				display: inline-block;
+
+				width: 150px;
+
+				height: 150px;
+
+				border-radius: 50%;
+
+				overflow: hidden;
+
+				margin-right: 20px;
+
+			}
+
+			.gambar img {
+
+				max-width: 100%;
+
+			}
+
+			.main {
+
+				display: flex;
+
+				margin-top: 40px;
+
+			}
+
+			.main2 {
+
+				display: flex;
+
+			}
+
+			.konten {
+
+				width: 50%;
+
+				display: block;
+
+			}
+
+			.pendidikan {
+
+				display: flex;
+
+				align-items: start;
+
+				margin-bottom: 20px;
+
+			}
+
+			.bulat {
+
+				font-size: 3em;
+
+				color: #ff0000;
+
+				line-height: 1px;
+
+			}
+
+			.list {
+
+				padding: 0;
+
+				list-style: none;
+
+			}
+
+			.list li {
+
+				margin-bottom: 10px;
+
+			}
+
+			a {
+				color: rgb(0, 0, 0);
+			}
+
+			h1,
+
+			h2,
+
+			h3,
+
+			h4 {
+
+				color: navy;
+
+				font-weight: black;
+
+			}
